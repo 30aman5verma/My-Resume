@@ -21,7 +21,7 @@
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "Aman Verma",
 				"url": "https://www.linkedin.com/in/aman-verma-290984209/"
 			},
 			{
@@ -48,5 +48,4 @@
 		"name": "Sports",
 		"keywords": ["Badminton","Cricket", "Carrom", "Kho-Kho"]
 	}],
-	"references": []
 }
